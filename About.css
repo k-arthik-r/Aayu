@@ -1,7 +1,3 @@
- .u-section-1 {
-  background-image: url("images/circle-line-lotus-flower-logo-on-white-background-vector-42952772-modified1.png");
-}
-
 .u-section-1 .u-sheet-1 {
   min-height: 1278px;
 }
@@ -12,11 +8,29 @@
 }
 
 .u-section-1 .u-text-2 {
-  margin: 39px 0 29px;
+  margin: 39px 0 0;
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    background-position: 50% 50%;
+  .u-section-1 .u-sheet-1 {
+    min-height: 1300px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1502px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1422px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1754px;
   }
 }
