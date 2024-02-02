@@ -1,0 +1,22 @@
+ .u-section-1 {
+  background-image: url("images/circle-line-lotus-flower-logo-on-white-background-vector-42952772-modified1.png");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1278px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 64px auto 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 39px 0 29px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+}
