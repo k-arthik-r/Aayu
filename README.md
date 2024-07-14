@@ -6,3 +6,5 @@ Aayu is a startup focused on selling personalized vertical farm kits, recommende
 
 ## Contents
 This Repository contains the Source Files for a Demo Website built using HTML, CSS, JS for Aayu.
+
+Note: This was done as a part of  Naissance 2024, A National Level Management Fest
